@@ -1,0 +1,66 @@
+# Metadata for SGO Satellite Offices
+---
+Identifier: 'c4a2f1ec-9b46-48aa-9b09-0fbe74d8742c'
+Name: 'sgo-satellite-offices'
+Title: 'SGO Satellite Offices'
+Description: 'Mapping of SGO Satellite Offices, with addresses, postal codes and telephone
+  numbers'
+Topics:
+  - 'Health'
+Keywords:
+  - 'SGO'
+  - 'Satellite Office'
+Publisher:
+  Name: 'Ministry of Health'
+  Admin 1:
+    Name: 'A Vigneswari'
+    Department: 'Ministry of Health'
+    Email: 'a_vigneswari@moh.gov.sg'
+Sources:
+  - 'Ministry of Health'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Coverage: '2018-01-01 to 2019-12-31'
+Last Updated: '2019-02-13T07:41:00.457730'
+Resources:
+  -
+    Identifier: '25c917a4-d670-4696-9053-e22164a5a8f7'
+    Title: 'SGO Satellite Offices'
+    Url: 'https://storage.data.gov.sg/sgo-satellite-offices/resources/sgo-satellite-offices-2019-02-13T07-41-00Z.csv'
+    Format: 'CSV'
+    Coverage: '2018-01-01 to 2019-12-31'
+    Description: 'Mapping of SGO Satellite Offices, with addresses, postal codes and
+      telephone numbers'
+    Last Updated: '2019-02-13T07:41:00.089739'
+    Schema:
+      -
+        Name: 'sn'
+        Title: 'Sn'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No'
+        Description: 'No of satellite Offfices'
+      -
+        Name: 'satellite_office'
+        Title: 'Satellite office'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Name of Satellite Offices'
+      -
+        Name: 'address'
+        Title: 'Address'
+        Type: 'text'
+        Sub Type: 'address'
+        Description: 'Address of Satellite Offices'
+      -
+        Name: 'postal_code'
+        Title: 'Postal code'
+        Type: 'text'
+        Sub Type: 'postal_code'
+        Description: 'Postal Code of Satellite Offices'
+      -
+        Name: 'telephone'
+        Title: 'Telephone'
+        Type: 'text'
+        Sub Type: 'telephone'
+        Description: 'Telephone Numbers of Satellite Offices'

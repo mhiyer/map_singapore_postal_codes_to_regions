@@ -4,7 +4,7 @@ Created on Tue Jan 14 09:29:51 2020
 
 @author: mhiyer
 
-Given Singapore postal codes, map them to one of five regions- North, South, East, West and North-East
+Given Singapore postal codes, map them to one of five regions- North, Central, East, West and North-East
 This code uses pandas to read in data, and uses a mapping datafile that maps postal codes to regions
 
 """

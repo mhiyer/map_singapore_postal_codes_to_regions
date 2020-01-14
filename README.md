@@ -11,3 +11,6 @@ I converted this information to an excel sheet
 
 Outputs:
 1) An extra column 'Regions', will be added to this data. This will be saved as an excel worksheet, in the same folder as your input data, with the same sheet_name. The only change is that a '_mapped_regions' is added to the name of the file.
+
+To view sample input and output, please navigate to the 'sgo-satellite-offices' folder. This data was obtained from:
+https://data.gov.sg/dataset/sgo-satellite-offices

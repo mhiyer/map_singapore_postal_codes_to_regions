@@ -4,6 +4,7 @@ Given Singapore postal codes, map them to one of five regions - North, South, Ea
 Inputs:
 1) An excel sheet that contains the mapping between postal codes and regions. I used this website:
 https://www.iproperty.com.sg/news/know-which-district-you-are-in-based-on-postal-code/
+
 I converted this information to an excel sheet
 
 2) Data that contains a column with postal codes: This needs to be an excel worksheet. For CSVs, you may make the desired modifications to the code.
